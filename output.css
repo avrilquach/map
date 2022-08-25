@@ -563,10 +563,6 @@ video {
   width: 100%;
 }
 
-.border {
-  border-width: 1px;
-}
-
 .border-\[5px\] {
   border-width: 5px;
 }

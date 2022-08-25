@@ -4,20 +4,11 @@ body {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
-.dashed{
-  stroke-dasharray: 10;
+#map{
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
 }
-.path {
-  stroke-dasharray: 1000;
-  stroke-dashoffset: 1000;
-  animation: dash 2s linear infinite;
-}
-
-@keyframes dash {
-  from {
-    stroke-dashoffset: 1000;
-  }
-  to {
-    stroke-dashoffset: 0;
-  }
+#map img{
+  width: 100%;
 }

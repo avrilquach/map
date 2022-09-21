@@ -563,8 +563,8 @@ video {
   position: relative;
 }
 
-.top-\[15\%\] {
-  top: 15%;
+.bottom-0 {
+  bottom: 0px;
 }
 
 .right-3 {
@@ -573,10 +573,6 @@ video {
 
 .top-4 {
   top: 1rem;
-}
-
-.bottom-0 {
-  bottom: 0px;
 }
 
 .z-20 {
